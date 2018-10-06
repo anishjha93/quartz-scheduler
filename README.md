@@ -1,5 +1,5 @@
 # quartz-scheduler
 ```diff
-+ Quartz Scheduler with spring boot
+Quartz Scheduler with spring boot
 ```
 
